@@ -33,13 +33,13 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ 𝙋𝙊𝙈𝙉𝙄 🎪 〈", 
-  nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
+  nameBot: "HEMA♗♝bot", 
+  nameChannel: "HEMA-𝐂𝐡𝐚𝐧𝐧𝐞𝐥♕", 
   idChannel: "120363225356834044@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v"
+    channel: "https://whatsapp.com/channel/0029VbCBGvbAzNbnHTGqwl2m"
   },
   copyright: { 
     pack: 'ڤـ ـ VA ـ ـا', 
